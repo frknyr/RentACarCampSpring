@@ -14,3 +14,6 @@ Bu eğitimde öğrendiklerimiz
 - IOC(Inversion Of Control)
 - Hata yönetimi
 - Spring Boot
+
+
+Bu eğitime Kodlama.io web sitesi üzerinden veya Engin Demiroğ adlı Youtube kanalından ulaşabilirsiniz
